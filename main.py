@@ -464,7 +464,7 @@ uniform float threshold = 0.23; // size of hole
         self.screen_shake = 0
         self.menu = True
         self.music['menu'].play(-1)
-        self.lives = 1
+        self.lives = 20
 
     def loadsound(self, path):
         return pygame.mixer.Sound('data/audio/' + path)
