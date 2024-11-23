@@ -16,4 +16,4 @@ Pygame-ce:
 *pip uninstall pygame
 pip install pygame-ce*
 
-The theme is 'You are your own enemy". When you die, you spawn a ghost instead of losing a life, getting a second chance. However, spawning ghosts makes the level harder - "your own enemy", as you lose a life when you hit one. Lives are displayed on the titlebar. When you have no lives left, you lose.
+The theme is 'You are your own enemy". When you die, you spawn a ghost instead of losing a life, getting a second chance. However, spawning ghosts makes the level harder, hence - "your own enemy", as you lose a life when you hit one. Lives are displayed on the titlebar. When you have no lives left, you lose.
