@@ -1,5 +1,7 @@
 # COUNTERSPELL GAME JAM 23 Nov 2024
 
+![screenshot](https://github.com/snej55/birdy/blob/main/Screenshot%202024-12-07%20145343.png)
+
 *Game Name: DEAD RECKONING*
 
 How to run:
